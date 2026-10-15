@@ -9,8 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noran-elhalwagi-47a186297/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoranElhalwagui)
 
+
 </div>
----
+
+<div align="center">
+  <img src="[assets/avatar.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVlb2t6ZmtudHQzcm90cmp3cW81MGtyM3g5czViYnkxZHBtMmFtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif)" width="150" alt="Waving avatar" />
+</div>
+
 
 ## About Me
 
@@ -24,18 +29,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,mysql,pytorch" />
 </p>
-
-##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-</div>
 
 ---
 
