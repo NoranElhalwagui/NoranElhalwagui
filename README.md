@@ -1,13 +1,13 @@
  <div align="center">
 
-# Hi , I'm Noran Elhalwagi
+# Hi 👋, I'm Noran Elhalwagi
 
 ### Computer Science Student | AI/ML Enthusiast | Researcher
 
 *Exploring AI, building software, and turning ideas into meaningful solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://www.linkedin.com/in/noran-elhalwagi-47a186297/)]
+[![GitHub]([https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://github.com/NoranElhalwagui))]
 
 </div>
 
@@ -15,16 +15,15 @@
 
 ## About Me
 
--  Computer Science student at Nile University.
+- Senior Computer Science student at Nile University.
 - Interested in Machine Learning, AI, and Data Science.
 - EEG signal processing and Brain-Computer Interfaces Researcher
-- Building projects in software engineering and machine learning.
-- Always learning, experimenting, and improving.
+- Passionate about continuous learning, research, and building impactful solutions..
 
 ##  Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,dotnet,react,git,github,sql,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,mysql,pytorch" />
 </p>
 
 ##  GitHub Stats
