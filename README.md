@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi 👋, I'm Noran Elhalwagi
 
@@ -6,11 +6,10 @@
 
 *Exploring AI, building software, and turning ideas into meaningful solutions.*
 
-[![LinkedIn](https://www.linkedin.com/in/noran-elhalwagi-47a186297/)]
-[![GitHub]([https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github](https://github.com/NoranElhalwagui))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noran-elhalwagi-47a186297/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoranElhalwagui)
 
 </div>
-
 ---
 
 ## About Me
