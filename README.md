@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Noran Elhalwagi
+# Hi 👋, I'm Noran Elhalwagui
 
 ### Computer Science Student | AI/ML Enthusiast | Researcher
 
