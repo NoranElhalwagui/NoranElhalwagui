@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="[assets/avatar.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVlb2t6ZmtudHQzcm90cmp3cW81MGtyM3g5czViYnkxZHBtMmFtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif)" width="150" alt="Waving avatar" />
+  <img src="Avatar.gif)" width="150" alt="Waving avatar" />
 </div>
 
 
