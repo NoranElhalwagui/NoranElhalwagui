@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="Avatar.gif)" width="150" alt="Waving avatar" />
+  <img src="Avatar.gif" width="150" alt="Waving avatar" />
 </div>
 
 
